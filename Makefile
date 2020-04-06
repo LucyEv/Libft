@@ -88,7 +88,6 @@ SRCS = ft_memset.c \
 
 OBJECTS = $(SRCS:.c=.o)
 
-
 INCLUDES=./
 
 all: $(NAME)
